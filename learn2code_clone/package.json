@@ -1,0 +1,30 @@
+{
+  "name": "learn2code",
+  "version": "1.0.0",
+  "description": "learn2code.sk webpage clone",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass ./assets/css/main.scss ./assets/css/main.css",
+    "build-css-watch": "sass ./assets/css/main.scss --watch ./assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JurikMatej/learn2code_clone.git"
+  },
+  "keywords": [
+    "webpage",
+    "clone",
+    "css",
+    "sass",
+    "design",
+    "practice",
+    "speedcoding"
+  ],
+  "author": "Matej Jurik <jurik.matejw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JurikMatej/learn2code_clone/issues"
+  },
+  "homepage": "https://github.com/JurikMatej/learn2code_clone#readme"
+}
