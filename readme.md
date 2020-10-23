@@ -13,3 +13,4 @@ The purpose of this repository is to serve as a '_gallery_' of (mini?) side/test
 I created at some point of time.  
 These projects are __not to be cloned__ but only to be reviewed to __see__ what I __learned__, __made__  
 and am capable of building.  
+
